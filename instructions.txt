@@ -1,0 +1,7 @@
+Usage: python main.py [input file] [output file]
+
+Default input file: auth.php
+Default output file: output.php
+
+Will translate the input file array and output the result in output file.
+Example command: python main.py auth.php auth-romana.php - will translate the file and output the result in auth-romana.php
